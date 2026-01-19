@@ -5,7 +5,8 @@ while i<=(len(num)-1) :
     print(num[i])
     i+=1
 
-# finding index of number x
+# finding index of number x 
+#learning break too
 arr =(1,4,9,16,25,36,49,64,81,100)
 x=int(input("enter number:"))
 j=0
